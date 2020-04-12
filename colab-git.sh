@@ -1,5 +1,5 @@
 # Como subir tu trabajo de Colab a Git
-A continuación de comentara los pasos a tener en cuenta para realizar modificaciones en tus repositorios de git desde git hub
+A continuación se comentara los pasos a tener en cuenta para realizar modificaciones en tus repositorios de git desde git hub
 
 
 1.   El primer paso a tener en cuenta es clonar tu repositorio de git en nuestro colab para lo que utilizaremos el siguiente codigo:
@@ -38,7 +38,7 @@ cd ..
 4. Ahora para guardar los cambios realizados correremos los siguientes codigos:
 
 ```
-!git add. 
+!git add . 
 
 !git init
 
