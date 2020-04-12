@@ -70,4 +70,5 @@ cd <FileName>          #nos lleva directamente al archivo creado
 !touch <FileName>.xx   #esta funcion crea el archivo de codigo y nuestras "xx" recuerda que el archivo puede estar en .py  de python o .sh de bash, etc.
 !cat <FileName>        #Se encarga de leerme o mostrarme que contiene el archivo
 ```
-3. sigues todos los puntos realizados anteriormente para poder subir el archivo a tu repositorio en GitHub.
+3. sigues todos los puntos realizados anteriormente para poder subir el archivo a tu repositorio en GitHub.Recuerda regresar al directorio
+donde se estaba creando todo ``` cd .. ```
